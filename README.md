@@ -1,5 +1,5 @@
 # runescapeVarrockAgilityScript
-Levels agility from 30-40. See README for list of bugs to work on
+Levels agility from 30-40
 
 
 <strong>2.0 Changes</strong>
